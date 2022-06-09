@@ -1,5 +1,21 @@
 # Changelog
 
+## [2.0.0](https://github.com/mrchrmn/conventional-pr/compare/v1.3.0...v2.0.0) (2022-06-09)
+
+
+### ⚠ BREAKING CHANGES
+
+* remove automerge workflow (#15)
+
+### Features
+
+* remove automerge workflow ([#15](https://github.com/mrchrmn/conventional-pr/issues/15)) ([043fe75](https://github.com/mrchrmn/conventional-pr/commit/043fe75ca45f44149dd5b7065f3779f4d1559279))
+
+
+### Bug Fixes
+
+* Small fix ([#17](https://github.com/mrchrmn/conventional-pr/issues/17)) ([9a51386](https://github.com/mrchrmn/conventional-pr/commit/9a51386831f1c1d2150fd5d5e04fb208058ab01f))
+
 ## [1.3.0](https://github.com/mrchrmn/conventional-pr/compare/v1.2.0...v1.3.0) (2022-06-09)
 
 
