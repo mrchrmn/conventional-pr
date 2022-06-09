@@ -2,17 +2,13 @@ name: Auto merge
 on: pull_request
 
 jobs:
-  merge:
+  auto-merge:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: ./
-        id: merge
+      - name: Auto-merge autorelease PRs
+        uses: KeisukeYamashita/create-comment@v1
         with:
           intervalSeconds: 1
           timeoutSeconds: 60
           labels: "autorelease: pending"
-      - name: Auto-merge autorelease PRs
-        uses: KeisukeYamashita/create-comment@v1
-        with:
           comment: ${{ steps.merge.outputs.merged }}
