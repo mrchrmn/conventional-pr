@@ -1,5 +1,21 @@
 # Changelog
 
+## [3.0.0](https://github.com/mrchrmn/conventional-pr/compare/v2.0.0...v3.0.0) (2022-06-09)
+
+
+### ⚠ BREAKING CHANGES
+
+* Breaking (#20)
+
+### Features
+
+* Breaking ([#20](https://github.com/mrchrmn/conventional-pr/issues/20)) ([ecf8254](https://github.com/mrchrmn/conventional-pr/commit/ecf82547beeba4d411dff63c60e47ee93cdd0d5f))
+
+
+### Bug Fixes
+
+* Deleted lines ([#18](https://github.com/mrchrmn/conventional-pr/issues/18)) ([8094293](https://github.com/mrchrmn/conventional-pr/commit/8094293875c59ca6db1569a80bd215da20736ae2))
+
 ## [2.0.0](https://github.com/mrchrmn/conventional-pr/compare/v1.3.0...v2.0.0) (2022-06-09)
 
 
