@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.1](https://github.com/mrchrmn/conventional-pr/compare/v3.1.0...v3.1.1) (2022-06-20)
+
+
+### Refactors
+
+* Added line ([#23](https://github.com/mrchrmn/conventional-pr/issues/23)) ([cd0c5db](https://github.com/mrchrmn/conventional-pr/commit/cd0c5dbf6844e7cc83c2c63add49279c6340b4f8))
+
 ## [3.1.0](https://github.com/mrchrmn/conventional-pr/compare/v3.0.0...v3.1.0) (2022-06-09)
 
 
