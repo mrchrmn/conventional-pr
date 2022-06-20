@@ -11,6 +11,6 @@ jobs:
       - uses: google-github-actions/release-please-action@v3
         with:
           release-type: node
-          command: manifest-pr
+          command: manifest
           package-name: release-please-action
         
