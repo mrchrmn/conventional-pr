@@ -2,5 +2,5 @@
   "packages": {
     ".": {}
   }, 
-  "changelog-sections": [{"type":"chore","section":"Miscellaneous","hidden":false},{"type":"feat","section":"Features","hidden":false},{"type":"fix","section":"Bug Fixes","hidden":false},{"type":"refactor","section":"Refactors","hidden":false}]
+  "changelog-sections": [{"type":"ci","section":"CI","hidden":false},{"type":"feat","section":"Features","hidden":false},{"type":"fix","section":"Bug Fixes","hidden":false},{"type":"refactor","section":"Refactors","hidden":false}]
 }
