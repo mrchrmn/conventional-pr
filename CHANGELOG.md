@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.3](https://github.com/mrchrmn/conventional-pr/compare/v3.1.2...v3.1.3) (2022-06-20)
+
+
+### Miscellaneous
+
+* add another chore ([4578751](https://github.com/mrchrmn/conventional-pr/commit/4578751be0dae9722636342fcd331cd08e7d3015))
+
 ## [3.1.2](https://github.com/mrchrmn/conventional-pr/compare/v3.1.1...v3.1.2) (2022-06-20)
 
 
