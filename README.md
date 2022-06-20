@@ -9,3 +9,5 @@ Here is a new feature.
 Refactoring a bit.
 
 And a chore.
+
+A refactor.
