@@ -16,4 +16,4 @@ Another chore.
 
 And a refactor again.
 
-
+A test for single commits.
