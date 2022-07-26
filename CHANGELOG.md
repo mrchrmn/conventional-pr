@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.0.2](https://github.com/mrchrmn/conventional-pr/compare/v5.0.1...v5.0.2) (2022-07-26)
+
+
+### Bug Fixes
+
+* switch to group pattern ([6cd89d1](https://github.com/mrchrmn/conventional-pr/commit/6cd89d1ebc0e3589cafbd55c46b2bf03950ddfaf))
+
 ## [5.0.1](https://github.com/mrchrmn/conventional-pr/compare/v5.0.0...v5.0.1) (2022-07-26)
 
 
