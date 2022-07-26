@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.0.1](https://github.com/mrchrmn/conventional-pr/compare/v5.0.0...v5.0.1) (2022-07-26)
+
+
+### Bug Fixes
+
+* testing title pattern ([38dbb5b](https://github.com/mrchrmn/conventional-pr/commit/38dbb5b9b64235d037974c433ebfe53f68c537fe))
+
 ## [5.0.0](https://github.com/mrchrmn/conventional-pr/compare/v4.0.0...v5.0.0) (2022-07-26)
 
 
