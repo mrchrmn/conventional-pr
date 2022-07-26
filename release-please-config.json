@@ -3,6 +3,6 @@
     ".": {}
   },
   "include-component-in-tag": false,
-  "group-pull-request-title-pattern": "chore${scope}: release${component} ${version} do_automatic_deployment",
+  "pull-request-title-pattern": "chore${scope}: release${component} ${version} do_automatic_deployment",
   "changelog-sections": [{"type":"ci","section":"CI","hidden":false},{"type":"feat","section":"Features","hidden":false},{"type":"fix","section":"Bug Fixes","hidden":false},{"type":"refactor","section":"Refactors","hidden":false}]
 }
